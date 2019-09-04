@@ -5,9 +5,11 @@
 
 地图定位采用高德：[Web服务API](https://lbs.amap.com/api/webservice/summary/)
 
-python 版本：Python 3.7.4rc2
+example:
 
-执行：可以直接下载dist目录下exe文件。
+![example](https://github.com/kinghows/pic_check/edit/master/optimized.jpg)
+
+python 版本：Python 3.7.4rc2
 
 开发安装：
 
