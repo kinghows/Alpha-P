@@ -7,7 +7,9 @@
 
 python 版本：Python 3.7.4rc2
 
-安装：
+执行：可以直接下载dist目录下exe文件。
+
+开发安装：
 
 wxPython:
 
