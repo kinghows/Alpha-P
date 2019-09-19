@@ -1,4 +1,4 @@
-# pic_check
+# Alpha-P
 检测手机照片的拍摄时间和地点以及颜值.（检测拍摄地点必须使用开了手机定位的原图。）
 
 人脸识别采用腾讯：[人脸识别 API](http://ai.qq.com/)
@@ -31,4 +31,4 @@ pip install numpy==1.16.2
 
 打包成一个exe文件：
 
-pyinstaller -F pic_check.py
+pyinstaller -F Alpha-P.py
