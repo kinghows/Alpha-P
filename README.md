@@ -32,3 +32,15 @@ pip install numpy==1.16.2
 打包成一个exe文件：
 
 pyinstaller -F Alpha-P.py
+
+## 好玩的Alpha系列，喜欢的打颗星：
+
+- [Alpha-12306：买个票](https://github.com/kinghows/Alpha-12306)
+
+- [Alpha-B：下载关注的最新B站视频](https://github.com/kinghows/Alpha-B)
+
+- [Alpha-C：智能闲聊](https://github.com/kinghows/Alpha-C)
+
+- [Alpha-D：人工智能刷抖音](https://github.com/kinghows/Alpha-D)
+
+- [Alpha-J：微信跳一跳python玩法](https://github.com/kinghows/Alpha-J)
