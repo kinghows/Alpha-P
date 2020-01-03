@@ -44,3 +44,5 @@ pyinstaller -F Alpha-P.py
 - [Alpha-D：人工智能刷抖音](https://github.com/kinghows/Alpha-D)
 
 - [Alpha-J：微信跳一跳python玩法](https://github.com/kinghows/Alpha-J)
+
+- [Alpha-A：量化投资--一个全栈实验项目](https://github.com/kinghows/Alpha-A)
