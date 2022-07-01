@@ -19,6 +19,10 @@ https://wxpython.org/Phoenix/snapshot-builds/
 
 pip install E:\SOFT\Python\windows\wxPython-4.1.0a1.dev4250+34521dc1-cp37-cp37m-win_amd64.whl
 
+pip install requests
+
+pip install opencv-python
+
 pip install pyinstaller
 
 如果报错，请安装numpy1.16.2
