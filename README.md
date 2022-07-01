@@ -23,6 +23,8 @@ pip install requests
 
 pip install opencv-python
 
+pip install exifread
+
 pip install pyinstaller
 
 如果报错，请安装numpy1.16.2
